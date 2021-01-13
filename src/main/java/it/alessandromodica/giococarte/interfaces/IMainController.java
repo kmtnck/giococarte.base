@@ -1,4 +1,4 @@
-package it.alessandromodica.giococarte.restcontroller.interfaces;
+package it.alessandromodica.giococarte.interfaces;
 
 import java.util.List;
 

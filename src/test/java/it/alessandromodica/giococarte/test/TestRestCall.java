@@ -20,7 +20,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 import config.TestSpringConfig;
 import it.alessandromodica.giococarte.app.MainApplication;
-import it.alessandromodica.giococarte.restcontroller.interfaces.IMainController;
+import it.alessandromodica.giococarte.interfaces.IMainController;
 import it.alessandromodica.product.persistence.interfaces.IRepositoryQueries;
 import it.alessandromodica.product.persistence.repo.BaseRepository;
 
